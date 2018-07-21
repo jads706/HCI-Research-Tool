@@ -1,0 +1,32 @@
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\HCI Research Tool.exe.config
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\HCI Research Tool.exe
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\HCI Research Tool.pdb
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Auth.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Core.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.PlatformServices.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.YouTube.v3.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Newtonsoft.Json.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\System.Net.Http.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.pdb
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.xml
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Auth.pdb
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Auth.xml
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Core.pdb
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.Core.xml
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.YouTube.v3.pdb
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Google.Apis.YouTube.v3.xml
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\bin\Release\Newtonsoft.Json.xml
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.csprojAssemblyReference.cache
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI_Research_Tool.Form1.resources
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI_Research_Tool.Properties.Resources.resources
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.csproj.GenerateResource.cache
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.csproj.CoreCompileInputs.cache
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.csproj.CopyComplete
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.exe
+C:\Users\JaVonRSanchez\source\repos\HCI Research Tool\HCI Research Tool\obj\Release\HCI Research Tool.pdb
