@@ -5,7 +5,7 @@ Intro:
 This is a tool that does a youtube search and gets the data of the video, the publisher related to the video, and comments along with replies. It then generates a txt file with that data and prints it out in json format. 
 The purpose of this tool is so that it can get the text data of a youtube result and display it with ease. This can be very useful for text analysis. (Notepad ++ is highly recommended)
 
-Application/executable is located in HCI Research Tool/bin/Debug Folder. It is named "HCI Research Tool".
+Application/executable is located in HCI Research Tool/bin/Debug Folder. It is named "YouPhish".
 To use Window App:
 
 1. Type a word in the search bar
