@@ -224,7 +224,7 @@ namespace HCI_Research_Tool
             this.Controls.Add(this.button1);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form1";
-            this.Text = "HCI Research Tool";
+            this.Text = "YouPhish";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
